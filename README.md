@@ -9,4 +9,5 @@ Landing page institucional da Contae — Contabilidade e Consultoria Empresarial
 - Layout responsivo para computador e celular
 - Identidade visual baseada nos materiais fornecidos pela empresa
 
-O site estático está em `dist/`.
+Os arquivos-fonte do site estão na raiz do repositório. A pasta `dist/` é
+gerada apenas para a publicação no Sites.
